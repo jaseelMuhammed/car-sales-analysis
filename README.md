@@ -29,8 +29,9 @@ This project presents an interactive Power BI dashboard that analyzes car sales 
 
 ## 📷 Screenshots
 
-![Dashboard Part 1](./Screenshot%202025-05-07%20103921.png)
-![Dashboard Part 2](./Screenshot%202025-05-07%20103935.png)
+![Dashboard Part 1](https://github.com/user-attachments/assets/665dfaf7-88ba-4024-b8db-ff61ea3f33d1)
+![Dashboard Part 2](https://github.com/user-attachments/assets/2b0757e3-2550-43a1-8e7d-417757dde5b8)
+
 
 ## 📁 Project Structure
 
